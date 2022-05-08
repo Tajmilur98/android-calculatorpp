@@ -14,11 +14,12 @@ public class KUET{
     public int getLocation(){
         return Location;
     }
-    public void setRoll(int nstud){
+
+    public void setStudent_number(int nstud){
         number_of_students = nstud;
     }
 
-    public void setName(String n){
+    public void setLoc(String n){
         Location = n;
     }
 
