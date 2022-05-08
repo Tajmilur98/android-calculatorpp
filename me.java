@@ -13,8 +13,8 @@ public class KUET{
     public int getLocation(){
         return Location;
     }
-    public void setRoll(int dept){
-        number_of_depts = dept;
+    public void setRoll(int ndept){
+        number_of_depts = ndept;
     }
 
     public void setName(String n){
